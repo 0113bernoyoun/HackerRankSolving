@@ -1,0 +1,10 @@
+SELECT * FROM CITY WHERE COUNTRYCODE = "JPN"
+
+
+
+
+#######
+여기는 하루에 2개씩 할까...
+
+
+
